@@ -1,3 +1,3 @@
 # symfony_app
 
-A project for LinekenIn learning's PHP Symfony 4 formations 
+A project for LinekedIn learning's PHP Symfony 4 formations 
